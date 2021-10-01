@@ -10,9 +10,11 @@
 
 - 🌱 I’m currently learning new trend and technologies **Laravel, vuejs, Nodejs, Python**
 
-- 👯 I’m looking to collaborate on laravel [Laravel](https://laravel.com)
+- 👯 I’m looking to collaborate on [Laravel](https://laravel.com)
 
 - 📫 How to reach me **mansoor.kochy@gmail.com**
+
+- 😎 My resume [pdf](https://github.com/mansoorkochy/mansoorkochy/blob/main/Mansoor%20Anis%20Kochy%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
