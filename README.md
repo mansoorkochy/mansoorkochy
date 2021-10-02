@@ -16,6 +16,8 @@
 
 - 😎 My resume [pdf](https://github.com/mansoorkochy/mansoorkochy/blob/main/Mansoor%20Anis%20Kochy%20Resume.pdf)
 
+- 🐱‍💻 website and portfolio [mansoorkochy.github.io](https://mansoorkochy.github.io) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mansoorkochy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mansoorkochy" height="30" width="40" /></a>
