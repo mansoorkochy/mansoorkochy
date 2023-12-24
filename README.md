@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mansoorkochy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mansoorkochy" height="30" width="40" /></a>
+<a href="https://x.com/aniskochy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mansoorkochy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mansoorkochy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansoorkochy" height="30" width="40" /></a>
 <a href="https://pt-br.facebook.com/mansoor.aniss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mansooraniskochy" height="30" width="40" /></a>
 <a href="https://instagram.com/mansoor.kochy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mansoor.kochy" height="30" width="40" /></a>
